@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Charlie Brown/Desktop/M2/or-tools.Linux64/lib/com.google.ortools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/IBM/ILOG/CPLEX_Studio_Preview126/cplex/lib/cplex.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
